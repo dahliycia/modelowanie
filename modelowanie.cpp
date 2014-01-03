@@ -208,7 +208,7 @@ cout << " jako " << kl[zz].numerw << endl << endl <<endl << endl;
 }
 
 
-
+  system("PAUSE");   
 
 	return 0;
 }
